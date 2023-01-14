@@ -1,0 +1,12 @@
+- 각자 조사해 온 프로젝트 진행 희망 데이터셋 발표
+    - 투표 결과
+        - 1위 : Social influence on shopping → 데이터셋이 너무 간단해서 X
+        - 2위 : 유방암의 임파선 전이 예측 → 데이터셋 용량이 너무 커서 X (사진 때문인 듯 .. 그리고 사진을 본격적으로 이용해서 데이터 분석하는 건 딥러닝인 것 같다 !)
+- 최종 주제는 퇴근 시간 버스 승차 인원 예측 경진 대회로 결정 !
+    - [https://dacon.io/competitions/official/229255/overview/description](https://dacon.io/competitions/official/229255/overview/description)
+- 다음 주 회의 전까지 과제는 EDA 과정 中 데이터 확인 / 이상치, 결측치 처리까지 해결해보기
+    - 참고한 EDA 과정
+        1. 데이터 확인
+        2. 이상치, 결측치 처리
+        3. 추가변수, 파생변수 생성
+        4. 변수 간 상관관계 파악

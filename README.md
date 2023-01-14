@@ -24,7 +24,7 @@
 - 이서현
 
 
-### 20230118  [바로가기]()
+### 20230118  [바로가기](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230118)
 - 곽은진
 - 권보미
 - 김서린

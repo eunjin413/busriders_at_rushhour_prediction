@@ -26,6 +26,7 @@
 
 
 ### 20230111  [바로가기](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230111)
+> [회의록](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/0111)
 - 곽은진
 - 권보미
 - 김서린

@@ -18,7 +18,7 @@
 
 ### 20230104  [바로가기](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230104)
 > [회의록](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/0104)
-- [곽은진](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230104/%EA%B3%BD%EC%9D%80%EC%A7%84_EDA(1))
+- [곽은진](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230104/%EA%B3%BD%EC%9D%80%EC%A7%84_EDA(1).ipynb)
 - 권보미
 - [김서린](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230104/%EA%B9%80%EC%84%9C%EB%A6%B0_%EC%88%99%ED%83%AF.ipynb)
 - 김채형

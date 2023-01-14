@@ -17,7 +17,7 @@
 > 8주차 (~2/22) - PPT 제작  
 
 ### 20230104  [바로가기](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230104)
-> [회의록]()
+> [회의록](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/0104)
 - 곽은진
 - 권보미
 - 김서린

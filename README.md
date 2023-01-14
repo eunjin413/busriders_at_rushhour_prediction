@@ -20,7 +20,7 @@
 - 곽은진
 - 권보미
 - 김서린
-- 김채형
+- [김채형] ((https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230111/1_EDA_chaehyounng.ipynb))
 - 이서현
 
 

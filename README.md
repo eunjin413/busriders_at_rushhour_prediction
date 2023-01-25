@@ -38,5 +38,5 @@
 - 곽은진
 - 권보미
 - 김서린
-- [김채형](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230118/3_Preprocessing2 (1)_chaehyounng.ipynb)
+- [김채형](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230118/3_Preprocessing2_chaehyounng.ipynb)
 - 이서현

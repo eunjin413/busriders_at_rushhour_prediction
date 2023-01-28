@@ -35,7 +35,7 @@
 
 
 ### 20230118  [바로가기](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230118)
-- 곽은진
+- [곽은진](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230118/%EA%B3%BD%EC%9D%80%EC%A7%84_EDA(3).ipynb)
 - 권보미
 - 김서린
 - [김채형](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230118/3_Preprocessing2_chaehyounng.ipynb)

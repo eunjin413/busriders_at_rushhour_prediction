@@ -49,7 +49,7 @@
 - 이서현
 
 ### 20230202  [바로가기](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230202)
-- 곽은진
+- [곽은진](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230202/%EA%B3%BD%EC%9D%80%EC%A7%84_test%EC%85%8B%20EDA%20%EB%B0%8F%20%EB%AA%A8%EB%8D%B8%20%EC%A0%81%ED%95%A91.ipynb)
 - 권보미
 - 김서린
 - [김채형](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230202/5_FeatureSelection_chaehyounng.ipynb)

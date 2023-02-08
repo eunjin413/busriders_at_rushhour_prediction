@@ -47,3 +47,10 @@
 - 김서린
 - [김채형](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230125/4_Preprocessing3_chaehyounng.ipynb)
 - 이서현
+
+### 20230202  [바로가기]()
+- 곽은진
+- 권보미
+- 김서린
+- 김채형
+- 이서현

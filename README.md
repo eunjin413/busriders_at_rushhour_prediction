@@ -59,5 +59,5 @@
 - 곽은진
 - 권보미
 - 김서린
-- [김채형](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230208/6_Modeling_Parameter Tuning_chaehyounng.ipynb)
+- [김채형](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230208/6_Modeling_ParameterTuning_chaehyounng.ipynb)
 - 이서현

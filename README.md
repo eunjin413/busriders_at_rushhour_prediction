@@ -54,3 +54,10 @@
 - 김서린
 - [김채형](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230202/5_FeatureSelection_chaehyounng.ipynb)
 - 이서현
+
+### 20230208   [바로가기](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230208)
+- 곽은진
+- 권보미
+- 김서린
+- [김채형](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230208/6_Modeling_Parameter Tuning_chaehyounng.ipynb)
+- 이서현

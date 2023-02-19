@@ -51,13 +51,13 @@
 ### 20230202  [바로가기](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230202)
 - [곽은진](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230202/%EA%B3%BD%EC%9D%80%EC%A7%84_test%EC%85%8B%20EDA%20%EB%B0%8F%20%EB%AA%A8%EB%8D%B8%20%EC%A0%81%ED%95%A91.ipynb)
 - 권보미
-- 김서린
+- [김서린](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230202/%EC%88%99%ED%83%AF_%EA%B9%80%EC%84%9C%EB%A6%B0.ipynb)
 - [김채형](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230202/5_FeatureSelection_chaehyounng.ipynb)
-- 이서현
+- [이서현](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230202/5%EC%A3%BC%EC%B0%A8_%EC%9D%B4%EC%84%9C%ED%98%84.ipynb)
 
 ### 20230208   [바로가기](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230208)
 - [곽은진](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230208/ElasticNet,%20XGBoost_%EA%B3%BD%EC%9D%80%EC%A7%84.ipynb)
 - 권보미
 - 김서린
 - [김채형](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230208/6_Modeling_ParameterTuning_chaehyounng.ipynb)
-- 이서현
+- [이서현](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230208/6%EC%A3%BC%EC%B0%A8_%EC%9D%B4%EC%84%9C%ED%98%84.ipynb)

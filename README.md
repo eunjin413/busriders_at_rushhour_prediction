@@ -56,7 +56,7 @@
 - 이서현
 
 ### 20230208   [바로가기](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230208)
-- 곽은진
+- [곽은진](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230208/ElasticNet,%20XGBoost_%EA%B3%BD%EC%9D%80%EC%A7%84.ipynb)
 - 권보미
 - 김서린
 - [김채형](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230208/6_Modeling_ParameterTuning_chaehyounng.ipynb)

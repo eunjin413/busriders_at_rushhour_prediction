@@ -64,7 +64,7 @@
 
 ### 20230215  [바로가기](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230215)
 - [곽은진](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230215/%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%20%ED%8A%9C%EB%8B%9D%20%EB%B0%8F%20%EC%95%99%EC%83%81%EB%B8%94_%EA%B3%BD%EC%9D%80%EC%A7%84.ipynb)
-- 권보미
+- [권보미](http://localhost:8888/notebooks/Sooktat/20230215%20%EC%BA%90%EA%B8%80%20%EB%AA%A8%EB%8D%B8%20%EC%A0%81%EC%9A%A9%20.ipynb)
 - 김서린
 - [김채형](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230215/7_Ensemble_chaehyounng.ipynb)
 - 이서현

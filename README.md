@@ -61,3 +61,10 @@
 - 김서린
 - [김채형](https://github.com/chaehyounng/busriders_at_rushhour_prediction/tree/main/ProjectCode/20230208/6_Modeling_ParameterTuning_chaehyounng.ipynb)
 - [이서현](https://github.com/chaehyounng/busriders_at_rushhour_prediction/blob/main/ProjectCode/20230208/6%EC%A3%BC%EC%B0%A8_%EC%9D%B4%EC%84%9C%ED%98%84.ipynb)
+
+### 20230215  [바로가기]()
+- 곽은진
+- 권보미
+- 김서린
+- 김채형
+- 이서현
